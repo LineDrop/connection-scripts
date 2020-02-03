@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sftp -i ~/.ssh/key_file user@server_ip
